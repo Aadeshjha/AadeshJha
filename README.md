@@ -1,64 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:000000&height=200&section=header&text=AADESH%20JHA&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=SECURITY%20ENGINEER%20%7C%20FULL-STACK%20PYTHON%20%7C%20SYSTEM%20ARCHITECT&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:000000&height=200&section=header&text=AADESH%20JHA&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20NETWORK%20ARCHITECT%20%7C%20SAAS%20BUILDER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Self-Taught+Engineer+%7C+Proof+Over+Paper;Offensive+%26+Defensive+Security+Tooling;Pure-Python+Scanners+%26+Static+Malware+Analysis;Production+Backends+(Flask+%7C+PostgreSQL+%7C+Redis);Cross-Platform+Apps+%26+E2E+Cryptography" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=760&lines=Web+%26+API+Penetration+Tester+(XSS+%7C+SQLi+%7C+RCE+%7C+IDOR);Creator+of+Swift+Cyber+Shield+(120%2B+Offensive+Security+Tools);CCNA+Network+Engineer+(OSPF+%7C+EIGRP+%7C+RIP+%7C+VLANs);Architecting+Multi-Tenant+SaaS+%26+Self-Hosted+AI+Platforms" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-aadeshjha.com.np-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aadeshjha.com.np)
+[![Academy](https://img.shields.io/badge/LMS-swiftinfosys.com.np-0D1117?style=for-the-badge&logo=fireship&logoColor=00FF41)](https://swiftinfosys.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-Aadeshjha-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Aadeshjha)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aadeshjha&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/Aadeshjha)
 [![Followers](https://img.shields.io/github/followers/Aadeshjha?style=for-the-badge&color=00FF41&logo=github&logoColor=white)](https://github.com/Aadeshjha?tab=followers)
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
+##  Executive Summary
 
-I'm **Aadesh Jha** — a self-taught **Cybersecurity Engineer, Technical Instructor, and Full-Stack Developer** from Nepal 🇳🇵. I don't rely on degrees; I let shipped code, system architecture, and security research speak for my skills.
+I'm **Aadesh Jha** — a self-taught **Penetration Tester, Network Engineer, and Full-Stack Product Architect** from Nepal 🇳🇵. I build offensive security suites, enterprise networking infrastructures, and multi-tenant SaaS platforms powered by self-hosted AI.
 
-- 🛡️ **Security Tooling & Static Analysis:** Engineering dependency-free, pure-Python reconnaissance tools, vulnerability scanners, and Docker-isolated static `.apk` / `.exe` inspection pipelines.
-- ⚙️ **Scalable Backend Systems:** Architecting production web platforms, REST APIs, and asynchronous task queues with **Python, Flask, PostgreSQL, Celery, and Redis**.
-- 🔐 **Applied Cryptography & Mobile:** Building cross-platform apps in **Flutter & Dart**, integrating end-to-end encryption (**Rust / Signal Protocol**) and secure local storage.
-- 🎓 **Cybersecurity Mentorship:** Teaching network security, Cisco switching concepts, OSINT/Google Dorking, and offensive/defensive security fundamentals.
+-  **Offensive Security & Pentesting:** Discovering and exploiting critical web & API vulnerabilities (**XSS, SQL Injection, RCE, IDOR, Auth Bypass**) using **Burp Suite, Nuclei, Nmap, Metasploit, and Wireshark**.
+-  **Enterprise Networking (CCNA):** Designing, segmenting, and troubleshooting routed & switched infrastructures — **VLANs, Trunking, Inter-VLAN Routing, Static Routing, RIP, EIGRP, OSPF, DHCP, and deep packet inspection**.
+-  **AI-Accelerated Product Engineering:** Taking complex software products from system architecture to working platforms using Python, Flask, Flutter, and self-hosted LLMs.
+-  **Founder & Lead Instructor:** Training cybersecurity and networking students through **[Swift Infosys](https://swiftinfosys.com.np)**.
 
-> *"No degree required when your code breaks barriers and secures systems."*
+> *"Proof over paper — every system I build is engineered to break barriers and secure real-world infrastructure."*
 
 ---
 
-## 🛠️ Core Arsenal & Stack
+## 🛠️ Security, Networking & Engineering Arsenal
 
 <div align="center">
 
-**Languages & Systems**  
-<img src="https://skillicons.dev/icons?i=python,rust,dart,js,bash,postgres" />
-
-**Frameworks, DevOps & Security**  
-<img src="https://skillicons.dev/icons?i=flask,flutter,redis,docker,tailwind,linux,kali,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,dart,flutter,js,postgres,redis,docker,linux,kali,bash,git" />
 
 </div>
 
 <br/>
 
-| Domain | Production Capabilities |
+| Domain | Core Capabilities & Tooling |
 | :--- | :--- |
-| **Offensive & Defensive Security** | Static APK/EXE Analysis, Custom Port & Directory Scanners, OSINT / Google Dorking, Network Security |
-| **Backend Engineering** | Python 3, Flask, SQLAlchemy, PostgreSQL, Redis, Celery, RESTful APIs, Payment Gateway Integrations |
-| **Cross-Platform & Crypto** | Flutter, Dart FFI, Rust Cryptographic Bindings, End-to-End Encryption (E2EE), WebAssembly |
-| **Infrastructure & Sandboxing** | Linux Administration, Kali Linux, Docker Container Isolation, Privilege Separation |
+| **Web & API Pentesting** | Burp Suite, Nuclei, Nmap, Metasploit, Wireshark, Subdomain Recon, XSS, SQLi, RCE, API Fuzzing |
+| **Network Engineering** | OSI & TCP/IP Stack, IP/MAC Addressing, VLANs, Static & Dynamic Routing (RIP, EIGRP, OSPF), DHCP |
+| **Backend & AI Architecture** | Python, Flask, REST APIs, PostgreSQL, Redis, Celery, Self-Hosted AI / Local LLM Integration |
+| **Frontend & Cross-Platform** | Flutter, Dart, HTML5, CSS3, Tailwind CSS, JavaScript |
 
 ---
 
-## 🚀 Flagship Engineering & Research
+## 🚀 Flagship Systems & Platforms
 
-| Project / Domain | Technical Focus & Architecture | Stack |
+| System | Capabilities & Technical Architecture | Deployment |
 | :--- | :--- | :--- |
-| **Static Malware & APK Guard** | Sandboxed static decompilation pipeline to extract Android permissions, hardcoded endpoints, and risky code patterns without executing untrusted binaries. | `Python` `Docker` `Static Analysis` |
-| **Pure-Python Recon Suite** | Custom multithreaded network scanner and directory brute-forcer built from scratch using raw sockets without third-party binary dependencies. | `Python` `Sockets` `Concurrency` |
-| **Full-Stack Social & E-Learning Platforms** | End-to-end production platforms featuring OAuth, role-based access control, background workers, and local payment gateway workflows. | `Flask` `PostgreSQL` `Redis` `Celery` |
-| **Cross-Platform E2EE Messaging** | Multi-platform encrypted communication architecture bridging Rust cryptographic primitives with Flutter UI via FFI. | `Rust` `Flutter` `Dart FFI` `E2EE` |
-| **OSINT & Security Curriculum** | Structured technical labs covering advanced Google Dorking, footprinting, VLANs, and switching security for students. | `OSINT` `Networking` `Kali Linux` |
+| Swift Cyber Shield | Comprehensive offensive security and reconnaissance platform packing **120+ micro ethical hacking tools** — covering subdomain enumeration, port & service scanning, XSS/SQLi/RCE vulnerability detection, and API security auditing. | `Self-Hosted / Live Demo` |
+| Multi-Tenant SaaS LMS & ERP | Enterprise school & institute management suite integrated with a **self-hosted AI engine** for automated tutoring, exam generation, attendance, fee management, and multi-school administration. | `White-Label SaaS / Live Demo` |
+| Next-Gen Social Platform | Full-stack social networking ecosystem built with real-time content feeds, user engagement workflows, media pipelines, and scalable backend architecture. | `Self-Hosted / Live Demo` |
+| Swift Infosys Portal | Official cybersecurity & networking training academy delivering structured labs and courses. → **[swiftinfosys.com.np](https://swiftinfosys.com.np)** | `Live in Production` |
 
 ---
 
@@ -78,25 +74,15 @@ I'm **Aadesh Jha** — a self-taught **Cybersecurity Engineer, Technical Instruc
 
 ---
 
-## 🎯 2026 Engineering Roadmap
-
-- [x] Architect Docker-isolated static APK/binary inspection workflows
-- [x] Ship full-stack web platforms with Flask, PostgreSQL, Celery & Redis
-- [ ] Release open-source pure-Python security & OSINT CLI tools on GitHub
-- [ ] Publish technical write-ups on static malware analysis & applied cryptography
-- [ ] Contribute security patches & tooling improvements to open-source repositories
-
----
-
-## 🤝 Connect & Collaborate
+## 🤝 Connect, Audit & Collaborate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aadeshjha-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Aadeshjha)
+🌐 **Portfolio:** [aadeshjha.com.np](https://aadeshjha.com.np) &nbsp;|&nbsp; 🎓 **Academy:** [swiftinfosys.com.np](https://swiftinfosys.com.np) &nbsp;|&nbsp; 📍 **Nepal 🇳🇵**
 
-📍 **Nepal 🇳🇵** • Open to security research, open-source tooling, and high-impact engineering collaborations.
+**Available for Penetration Testing, Security Audits, White-Label SaaS Demos & Technical Training.**
 
-### 💚 BUILD • BREAK • SECURE
+### 💚 BREAK • SECURE • SCALE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:001a00&height=110&section=footer" width="100%" />
 
