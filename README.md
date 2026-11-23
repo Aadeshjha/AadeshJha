@@ -1,94 +1,68 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:000000&height=200&section=header&text=AADESH%20JHA&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CYBERSECURITY%20%7C%20AI&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:000000&height=200&section=header&text=AADESH%20JHA&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=SECURITY%20ENGINEER%20%7C%20FULL-STACK%20PYTHON%20%7C%20SYSTEM%20ARCHITECT&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Ethical+Hacking+Enthusiast;AI-Assisted+Software+Developer;Python+%7C+Flask+%7C+Flutter;Building+Secure+%26+Intelligent+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Self-Taught+Engineer+%7C+Proof+Over+Paper;Offensive+%26+Defensive+Security+Tooling;Pure-Python+Scanners+%26+Static+Malware+Analysis;Production+Backends+(Flask+%7C+PostgreSQL+%7C+Redis);Cross-Platform+Apps+%26+E2E+Cryptography" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aadeshjha-181717?style=for-the-badge&logo=github)](https://github.com/Aadeshjha)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aadeshjha&style=for-the-badge&color=00FF41)](https://github.com/Aadeshjha)
-[![Followers](https://img.shields.io/github/followers/Aadeshjha?style=for-the-badge&color=00FF41&logo=github)](https://github.com/Aadeshjha?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-Aadeshjha-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Aadeshjha)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aadeshjha&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/Aadeshjha)
+[![Followers](https://img.shields.io/github/followers/Aadeshjha?style=for-the-badge&color=00FF41&logo=github&logoColor=white)](https://github.com/Aadeshjha?tab=followers)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Who Am I?
 
-Hello! I'm **Aadesh Jha**, a technology enthusiast passionate about software development, cybersecurity, and artificial intelligence.
+I'm **Aadesh Jha** — a self-taught **Cybersecurity Engineer, Technical Instructor, and Full-Stack Developer** from Nepal 🇳🇵. I don't rely on degrees; I let shipped code, system architecture, and security research speak for my skills.
 
-I enjoy turning ideas into practical applications, building backend systems, developing mobile experiences, and exploring application security.
+- 🛡️ **Security Tooling & Static Analysis:** Engineering dependency-free, pure-Python reconnaissance tools, vulnerability scanners, and Docker-isolated static `.apk` / `.exe` inspection pipelines.
+- ⚙️ **Scalable Backend Systems:** Architecting production web platforms, REST APIs, and asynchronous task queues with **Python, Flask, PostgreSQL, Celery, and Redis**.
+- 🔐 **Applied Cryptography & Mobile:** Building cross-platform apps in **Flutter & Dart**, integrating end-to-end encryption (**Rust / Signal Protocol**) and secure local storage.
+- 🎓 **Cybersecurity Mentorship:** Teaching network security, Cisco switching concepts, OSINT/Google Dorking, and offensive/defensive security fundamentals.
 
-- 💻 Developing full-stack applications and REST APIs.
-- 🐍 Building backend systems with Python and Flask.
-- 📱 Developing cross-platform apps using Flutter and Dart.
-- 🔐 Exploring ethical hacking and penetration testing.
-- 🤖 Using AI-assisted development to improve productivity.
-- 🛡️ Learning secure coding and web application security.
-- 🌱 Continuously learning, experimenting, and building.
-
-> "Think creatively. Code intelligently. Build securely."
+> *"No degree required when your code breaks barriers and secures systems."*
 
 ---
 
-## ⚡ Technical Skills
+## 🛠️ Core Arsenal & Stack
 
-### 💻 Programming & Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,dart,flutter,js,html,css" />
-</p>
+**Languages & Systems**  
+<img src="https://skillicons.dev/icons?i=python,rust,dart,js,bash,postgres" />
 
-### 🔐 Cybersecurity & Tools
+**Frameworks, DevOps & Security**  
+<img src="https://skillicons.dev/icons?i=flask,flutter,redis,docker,tailwind,linux,kali,git,vscode" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode" />
-</p>
+</div>
 
-### 🤖 AI & Modern Development
+<br/>
 
-- AI-assisted coding and debugging
-- AI-powered application development
-- API integration and automation
-- Intelligent software workflows
-
----
-
-## 🧰 Tech Stack
-
-| Category | Technologies |
-|---|---|
-| Languages | Python, Dart, JavaScript |
-| Backend | Flask, REST APIs |
-| Mobile | Flutter |
-| Frontend | HTML, CSS, JavaScript |
-| Security | Linux, Kali Linux, Web Security |
-| Tools | Git, GitHub, VS Code |
-| AI | AI-assisted development and automation |
+| Domain | Production Capabilities |
+| :--- | :--- |
+| **Offensive & Defensive Security** | Static APK/EXE Analysis, Custom Port & Directory Scanners, OSINT / Google Dorking, Network Security |
+| **Backend Engineering** | Python 3, Flask, SQLAlchemy, PostgreSQL, Redis, Celery, RESTful APIs, Payment Gateway Integrations |
+| **Cross-Platform & Crypto** | Flutter, Dart FFI, Rust Cryptographic Bindings, End-to-End Encryption (E2EE), WebAssembly |
+| **Infrastructure & Sandboxing** | Linux Administration, Kali Linux, Docker Container Isolation, Privilege Separation |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Engineering & Research
 
-### 📱 Mobile Application Development
-Building modern mobile applications using Flutter and Dart.
-
-### 🐍 Python & Flask Backend
-Creating REST APIs, backend services, and application integrations.
-
-### 🔐 Cybersecurity Labs
-Exploring ethical hacking, vulnerability assessment, and authorized penetration testing in controlled environments.
-
-### 🤖 AI-Powered Applications
-Experimenting with AI-assisted workflows and intelligent application features.
-
-> More projects and detailed documentation will be added as development progresses.
+| Project / Domain | Technical Focus & Architecture | Stack |
+| :--- | :--- | :--- |
+| **Static Malware & APK Guard** | Sandboxed static decompilation pipeline to extract Android permissions, hardcoded endpoints, and risky code patterns without executing untrusted binaries. | `Python` `Docker` `Static Analysis` |
+| **Pure-Python Recon Suite** | Custom multithreaded network scanner and directory brute-forcer built from scratch using raw sockets without third-party binary dependencies. | `Python` `Sockets` `Concurrency` |
+| **Full-Stack Social & E-Learning Platforms** | End-to-end production platforms featuring OAuth, role-based access control, background workers, and local payment gateway workflows. | `Flask` `PostgreSQL` `Redis` `Celery` |
+| **Cross-Platform E2EE Messaging** | Multi-platform encrypted communication architecture bridging Rust cryptographic primitives with Flutter UI via FFI. | `Rust` `Flutter` `Dart FFI` `E2EE` |
+| **OSINT & Security Curriculum** | Structured technical labs covering advanced Google Dorking, footprinting, VLANs, and switching security for students. | `OSINT` `Networking` `Kali Linux` |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Telemetry
 
 <div align="center">
 
@@ -98,41 +72,31 @@ Experimenting with AI-assisted workflows and intelligent application features.
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Aadeshjha&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img width="85%" src="https://streak-stats.demolab.com?user=Aadeshjha&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Engineering Roadmap
 
-- [ ] Build and deploy production-ready full-stack applications.
-- [ ] Improve Flutter mobile development skills.
-- [ ] Master Python backend development.
-- [ ] Learn advanced web application security.
-- [ ] Practice ethical penetration testing in authorized labs.
-- [ ] Build useful AI-powered applications.
-- [ ] Contribute to open-source projects.
+- [x] Architect Docker-isolated static APK/binary inspection workflows
+- [x] Ship full-stack web platforms with Flask, PostgreSQL, Celery & Redis
+- [ ] Release open-source pure-Python security & OSINT CLI tools on GitHub
+- [ ] Publish technical write-ups on static malware analysis & applied cryptography
+- [ ] Contribute security patches & tooling improvements to open-source repositories
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Aadeshjha)
+[![GitHub](https://img.shields.io/badge/GitHub-Aadeshjha-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Aadeshjha)
 
-📍 Nepal 🇳🇵
+📍 **Nepal 🇳🇵** • Open to security research, open-source tooling, and high-impact engineering collaborations.
 
-**Open to learning, collaboration, and building meaningful technology.**
-
-</div>
-
----
-
-<div align="center">
-
-### 💚 BUILD • SECURE • INNOVATE
+### 💚 BUILD • BREAK • SECURE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:001a00&height=110&section=footer" width="100%" />
 
